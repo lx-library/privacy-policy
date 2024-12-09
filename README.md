@@ -1,41 +1,41 @@
-# LX Library Terms of Service Repository
+# LX Library Privacy Policy Repository
 
-This repository hosts the Terms of Service documentation and viewer for LX Library (Pty) Ltd. It provides a versioned, accessible way to view our terms of service through a modern web interface.
+This repository hosts the Privacy Policy documentation and viewer for LX Library (Pty) Ltd. It provides a versioned, accessible way to view our privacy policy through a modern web interface.
 
 ## Overview
 
 The repository contains:
-- Terms of Service documents in PDF format
+- Privacy Policy documents in PDF format
 - A web-based viewer implementation
-- Version tracking for all TOS updates
+- Version tracking for all privacy policy updates
 
 ## Structure
 
 ```
-├── index.html          # Web viewer interface
-├── tos/               
-│   └── tos-v1.0.0.pdf  # Current TOS version
+├── index.html                # Web viewer interface
+├── privacy_policy/
+│   └── privacy_policy-v1.0.0.pdf  # Current Privacy Policy version
 ```
 
-## Viewing the Terms of Service
+## Viewing the Privacy Policy
 
-The Terms of Service can be viewed in two ways:
-1. Directly through our hosted page at [https://lx-library.github.io/tos](https://lx-library.github.io/tos)
+The Privacy Policy can be viewed in two ways:
+1. Directly through our hosted page at [https://lx-library.github.io/privacy_policy](https://lx-library.github.io/privacy_policy)
 2. By accessing specific versions using URL parameters
-    - Example: `https://lx-library.github.io/tos?version=v1.0.0`
+    - Example: `https://lx-library.github.io/privacy_policy?version=v1.0.0`
     - When using a version parameter, the version selector will be hidden
 
 ## Implementation Details
 
 - Built using PDF.js for reliable PDF rendering
 - Supports direct version linking via URL parameters
-- Implements version control for TOS documents
+- Implements version control for privacy policy documents
 - Responsive design for all devices
 - Minimal dependencies for maximum reliability
 
 ## Version History
 
-- v1.0.0 - Initial Terms of Service release
+- v1.0.0 - Initial Privacy Policy release
 
 ## License
 
@@ -43,12 +43,14 @@ This repository is licensed under the Apache License 2.0 - see the [LICENSE](LIC
 
 ## Contact
 
-For any inquiries regarding this repository or our Terms of Service:
+For any inquiries regarding this repository or our Privacy Policy:
 
-**LX Library (Pty) Ltd**  
-Keagan Gilmore  
-Email: keagangilmore@gmail.com  
+**LX Library (Pty) Ltd**
+Keagan Gilmore
+- **Email:** [keagangilmore@gmail.com](mailto:keagangilmore@gmail.com)
+- **Discord:** [keagan2980](https://discord.com/users/keagan2980)
 Tel: +27 83 510 7047
 
 ---
 © 2024 LX Library (Pty) Ltd. All rights reserved.
+```
